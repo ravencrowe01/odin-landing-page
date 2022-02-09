@@ -134,3 +134,27 @@
     border: 4px solid #3882F6;
     border-radius: 10px;
 }
+
+.quote {
+    display: flex;
+    background-color: #e5e7eb;
+    height: 430px;
+    padding-left: 15%;
+    padding-right: 15%;
+    justify-content: center;
+    align-items: center;
+}
+
+.quoteText {
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+    margin: 0 25%;
+    text-align: left;
+}
+
+.attribution {
+    font-size: 22px;
+    font-weight: bold;
+    margin-left: 70%;
+}
