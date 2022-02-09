@@ -200,3 +200,12 @@
 .ctaFont {
     color: white;
 }
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 120px;
+    background-color: #1F2937;
+    color: white;
+}
